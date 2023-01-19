@@ -1,0 +1,1 @@
+INSERT INTO testinfo(id, firstname, lastName, email, startDate) VALUES();
