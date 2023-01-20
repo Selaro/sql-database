@@ -1,0 +1,1 @@
+SELECT * FROM employee_database.basicinfo ORDER BY lastName;

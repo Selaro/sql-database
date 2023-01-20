@@ -1,0 +1,1 @@
+ALTER TABLE employee_database.basicinfo ADD COLUMN

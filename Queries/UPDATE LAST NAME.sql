@@ -1,0 +1,1 @@
+UPDATE testinfo SET lastName='' WHERE id=;
