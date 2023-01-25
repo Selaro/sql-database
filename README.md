@@ -17,5 +17,5 @@
 
  -Has queries ready to view data in different orders and clear tables.
 
- -Has second table with query to join tables together based on primary key.
+ -Has second table with query to join tables together based on ID.
 </p>
